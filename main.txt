@@ -26,5 +26,6 @@
 - Github Pages
 =======[-SinkCloud Inc. | More Information-]=======
 All data that doesn't need to be udpated regularly.
-Hosted on github. <a href="https://github.com/SinkCloud/cdn-static">Here</a>
+Hosted on github.
+https://github.com/SinkCloud/cdn-static
 ===================================================
